@@ -76,8 +76,8 @@ features = [
   'Storage'
 ]
 
-[patch.crates-io]
-embedded-graphics = { git = "https://github.com/embedded-graphics/embedded-graphics.git" }
+# [patch.crates-io]
+# embedded-graphics = { git = "https://github.com/embedded-graphics/embedded-graphics.git" }
 
 # cargo build/run
 [profile.dev]

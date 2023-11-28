@@ -1,4 +1,4 @@
-use crate::Mode;
+use crate::fs::Mode;
 use genio::std_impls::GenioIo;
 use std::{env, fs, io};
 
